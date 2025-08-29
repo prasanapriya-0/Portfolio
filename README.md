@@ -74,7 +74,7 @@
     </div>
 
     <div class="profile-container">
-        <img src="PRIYA.jpg" alt="M. PRASANNA PRIYA">
+        <img src="Internal storage/Pictures/WhatsApp/IMG-20250812-WA0005.jpg" alt="M. PRASANNA PRIYA">
     </div>
 
     <div class="container">
